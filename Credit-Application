@@ -1,0 +1,827 @@
+<doctype HTML>
+<head>
+<link href="https://s3.amazonaws.com/dom-cms/prod-web/Scripts/libs/chosen/chosen.css" rel="stylesheet" type="text/css" />
+<script src="https://s3.amazonaws.com/dom-cms/prod-web/Scripts/libs/chosen/chosen.jquery.js" type="text/javascript"></script>
+<script src="https://s3.amazonaws.com/dom-cms/prod-web/Scripts/libs/jquery/plugins/jquery.validate.min.js" type="text/javascript"></script>
+<script src="https://s3.amazonaws.com/dom-cms/prod-web/Scripts/libs/jquery/plugins/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="https://s3.amazonaws.com/dom-cms/Site/cf10bf9c-ec46-4681-a5ff-55e798911e6f/css/CreditApp2.css" />
+</head>
+<body>
+
+<div class="hide-on-phones"  style="width: 100%; height: 400px; border: none; text-align: center;">
+   <br />
+   <img src="https://s3.amazonaws.com/dom-cms/Site/cf10bf9c-ec46-4681-a5ff-55e798911e6f/images/Logo1.jpg"
+    style="width: 70%; height: 400px; border: 5px outset #a5a5a5;"  />
+   <br />
+   <br />
+   <br />
+   &nbsp;
+</div>
+<br />
+<br />
+&nbsp;
+
+<div style="width: 100%; height: 100%; border: 5px outset #a5a5a5; text-align: center; background-color: rgba(0,98,210,0.75); text-shadow: 2px 2px #0f0f0f;">
+   <br />
+   <font color="#ffffff">
+      <span style="font-family: georgia; font-size: 300%; line-height: 50px;">
+          
+         <strong>
+             
+            <em>
+                
+               <u>
+                   Welcome To Our Credit Application 
+               </u>
+                
+            </em>
+             
+         </strong>
+          
+      </span>
+      <br />
+      <br />
+      <span style="font-family: georgia; font-size: 200%; line-height: 30px;">
+          
+         <em>
+             Whether you have excellent credit or none at all, you can apply for financing online with Ashland Ford Chrysler. Discover your buying power before shopping for the new Jeep, Dodge, Ram, Ford, Chrysler, or used car of your choice. We work with all credit ratings, and we can locate financing that is tailored to your financial situation. At Ashland Ford Chrysler you are more than a credit score, you are a person. 
+         </em>
+          
+      </span>
+       
+   </font>
+   <br />
+   &nbsp;
+</div>
+<br />
+&nbsp;
+<!sidebar>
+
+<div style="width: 100%; height: 100%; border: 5px outset #a5a5a5; background-color: rgba(0,98,210,0.75); text-align: center; text-shadow: 2px 2px #0f0f0f;">
+   <br />
+   <br />
+   <font color="#ffffff">
+      <span style="font-family: georgia; font-size: 300%; line-height: 30px;">
+          
+         <strong>
+             
+            <em>
+                
+               <u>
+                   Questions? 
+               </u>
+                
+            </em>
+             
+         </strong>
+          
+      </span>
+      <br />
+      &nbsp; 
+   </font>
+   <div style="width: 100%; height: 100%; border: none; text-align: center;">
+      <br />
+      <br />
+      <font color="#ffffff">
+         <img src="https://s3.amazonaws.com/dom-cms/Site/cf10bf9c-ec46-4681-a5ff-55e798911e6f/images/staff/J.Moore1.jpg?7288a1c7-59a7-40d3-8caa-f3da3d70b864"
+          style="width: 80%; height: 100%; border: 2px solid black;"  />
+         <br />
+         <span style="font-family: georgia; font-size: 200%; line-height: 30px;">
+             Business Manager:
+            <br />
+            Jon Moore 
+         </span>
+         <br />
+         &nbsp; 
+      </font>
+   </div>
+   <font color="#ffffff">
+       
+   </font>
+   <div style="width: 100%; height: 100%; border: none; text-align: center">
+      <br />
+      <font color="#ffffff">
+         <span style="font-family: georgia; font-size: 200%; line-height: 30px;">
+             Contact Information:
+            <br />
+            Phone: (715) 682-8400
+            <br />
+            E-Mail: Jon@AshlandFordChrysler.com 
+         </span>
+         <br />
+         &nbsp; 
+      </font>
+   </div>
+   <br />
+   <font color="#ffffff">
+      &nbsp; 
+   </font>
+</div>
+&nbsp;
+<div style="width: 100%; height:100%; border: 5px outset #a5a5a5; text-align: center; background-color: rgba(0,98,210,0.75); text-shadow: 2px 2px #0f0f0f;">
+   <br />
+   <br />
+   <font color="#ffffff">
+      <span style="font-family: georgia; font-size: 200%; line-height: 30px;">
+          
+         <strong>
+             
+            <em>
+                Benefits of Applying Online: 
+            </em>
+             
+         </strong>
+          
+      </span>
+      <br />
+      <br />
+      <span style="font-family: georgia; font-size: 200%; line-height: 30px;">
+          
+         <em>
+             
+            <u>
+                1). Save Time: 
+            </u>
+            <br />
+            No one wants to wait around at the dealership. Save yourself some time by filling our our secure credit application now!
+            <br />
+            <br />
+            <br />
+            <u>
+               2). Pre-Approval: 
+            </u>
+            <br />
+            Know you&#39;re approved for financing befoe you even enter the dealership! 
+         </em>
+          
+      </span>
+      <br />
+      <br />
+      &nbsp; 
+   </font>
+</div>
+&nbsp;
+
+<div style="width: 100%; height: 100%; border: 5px outset #a5a5a5; text-align: center;background-color: rgba(0,98,210, 0.75); ">
+   <br />
+   <span style="font-family: georgia; font-size: 300%; line-height: 40px; text-shadow: 2px 2px #0f0f0f">
+       
+      <font color="#ffffff">
+          
+         <strong>
+             
+            <em>
+                Ashland Ford Chrysler
+               <br />
+               Online Credit Application: 
+            </em>
+             
+         </strong>
+          
+      </font>
+       
+   </span>
+   <br />
+   <br />
+   <span style="font-family: georgia; font-size: 100%; line-height: 30px;">
+       
+      <font color="#ffffff">
+          
+         <em>
+             The form will be submitted using a secure HTTPS form action.
+            <br />
+            All sensitive data is encrypted before transmission and is never sent as clear-text. 
+         </em>
+          
+      </font>
+      <br />
+      <em>
+         <a href="http://www.ashlandfordchrysler.com/finance/privacy-policy"><span style="color:#FFFFFF;">Please Read Our Privacy Policy </span></a> 
+      </em>
+       
+   </span>
+   <br />
+   &nbsp;
+   <div style="width: 100%; height: 100%; text-align: left; border: 2px solid black; background-color: #ffffff">
+      &nbsp;
+      <form action="https://secure.drivewebsite.com"  class="ddsFormEventTracking"
+       method="POST">
+         <input name="__pageInfo"  type="hidden"  value=""  /> 
+         <input name="__canvasItemId"  type="hidden"  value="dbed1aa5-f595-4935-b39f-e842e91e1a80"
+          /> 
+         <input name="__siteId"  type="hidden"  value="cf10bf9c-ec46-4681-a5ff-55e798911e6f"
+          /> 
+         <input name="__siteHeader"  type="hidden"  value="www.ashlandfordchrysler.com"
+          /> 
+         <input name="__landingPage"  type="hidden"  value="/thankyoufinance2"
+          /> 
+         <input name="__siteName"  type="hidden"  value="Ashland Ford Chrysler 2"
+          /> 
+         <input name="__pageName"  type="hidden"  value="Credit Application"  /> 
+         <input name="__pageId"  type="hidden"  value="5d823fab-114a-44c6-b9dd-4eaaf6ec7bd6"
+          /> 
+         <input name="__couponId"  type="hidden"  value=""  /> 
+         <input name="__userIp"  type="hidden"  value=""  />
+         <div class="temporal">
+            <ul>
+               <li>
+                  <label>
+                     MiddleName 
+                  </label>
+                   
+                  <input autocomplete="off"  name="MiddleName"  tabindex="-1"  type="text"
+                   />
+               </li>
+            </ul>
+         </div>
+         <div class="hpt-field">
+            <ul>
+               <li>
+                  <label>
+                     Name 
+                  </label>
+                   
+                  <input autocomplete="off"  name="Name"  tabindex="-1"  type="text"  />
+               </li>
+            </ul>
+         </div>
+         <div class="hpt-field2">
+            <ul>
+               <li>
+                  <label>
+                     FirstName 
+                  </label>
+                   
+                  <input autocomplete="off"  name="FirstName"  tabindex="-1"  type="text"
+                   />
+               </li>
+            </ul>
+         </div>
+         <ul>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_1">
+                  First Name: 
+                  <em>
+                      * 
+                  </em>
+                   
+               </label>
+                
+               <input class="required"  data-val="true"  data-val-required="This is a required field."
+                id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_1"  name="DDS_first_name"
+                type="text"  /> 
+               <span class="field-validation-valid"  data-valmsg-for="DDS_first_name"
+                data-valmsg-replace="true">
+                   
+               </span>
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_2">
+                  Last Name: 
+                  <em>
+                      * 
+                  </em>
+                   
+               </label>
+                
+               <input class="required"  data-val="true"  data-val-required="This is a required field."
+                id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_2"  name="DDS_last_name"
+                type="text"  /> 
+               <span class="field-validation-valid"  data-valmsg-for="DDS_last_name"
+                data-valmsg-replace="true">
+                   
+               </span>
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_3">
+                  Address: 
+               </label>
+                
+               <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_3"  name="DDS_address"
+                type="text"  />
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_4">
+                  City: 
+               </label>
+                
+               <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_4"  name="DDS_city"
+                type="text"  />
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_5">
+                  State: 
+               </label>
+                
+               <select id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_5"  name="DDS_state">
+                  <option value="AL">
+                     AL
+                  </option>
+                  <option value="AK">
+                     AK
+                  </option>
+                  <option value="AZ">
+                     AZ
+                  </option>
+                  <option value="AR">
+                     AR
+                  </option>
+                  <option value="CA">
+                     CA
+                  </option>
+                  <option value="CO">
+                     CO
+                  </option>
+                  <option value="CT">
+                     CT
+                  </option>
+                  <option value="DC">
+                     DC
+                  </option>
+                  <option value="DE">
+                     DE
+                  </option>
+                  <option value="FL">
+                     FL
+                  </option>
+                  <option value="GA">
+                     GA
+                  </option>
+                  <option value="HI">
+                     HI
+                  </option>
+                  <option value="ID">
+                     ID
+                  </option>
+                  <option value="IL">
+                     IL
+                  </option>
+                  <option value="IN">
+                     IN
+                  </option>
+                  <option value="IA">
+                     IA
+                  </option>
+                  <option value="KS">
+                     KS
+                  </option>
+                  <option value="KY">
+                     KY
+                  </option>
+                  <option value="LA">
+                     LA
+                  </option>
+                  <option value="ME">
+                     ME
+                  </option>
+                  <option value="MD">
+                     MD
+                  </option>
+                  <option value="MA">
+                     MA
+                  </option>
+                  <option value="MI">
+                     MI
+                  </option>
+                  <option value="MN">
+                     MN
+                  </option>
+                  <option value="MS">
+                     MS
+                  </option>
+                  <option value="MO">
+                     MO
+                  </option>
+                  <option value="MT">
+                     MT
+                  </option>
+                  <option value="NE">
+                     NE
+                  </option>
+                  <option value="NV">
+                     NV
+                  </option>
+                  <option value="NH">
+                     NH
+                  </option>
+                  <option value="NJ">
+                     NJ
+                  </option>
+                  <option value="NM">
+                     NM
+                  </option>
+                  <option value="NY">
+                     NY
+                  </option>
+                  <option value="NC">
+                     NC
+                  </option>
+                  <option value="ND">
+                     ND
+                  </option>
+                  <option value="OH">
+                     OH
+                  </option>
+                  <option value="OK">
+                     OK
+                  </option>
+                  <option value="OR">
+                     OR
+                  </option>
+                  <option value="PA">
+                     PA
+                  </option>
+                  <option value="RI">
+                     RI
+                  </option>
+                  <option value="SC">
+                     SC
+                  </option>
+                  <option value="SD">
+                     SD
+                  </option>
+                  <option value="TN">
+                     TN
+                  </option>
+                  <option value="TX">
+                     TX
+                  </option>
+                  <option value="UT">
+                     UT
+                  </option>
+                  <option value="VT">
+                     VT
+                  </option>
+                  <option value="VA">
+                     VA
+                  </option>
+                  <option value="	WA">
+                     WA
+                  </option>
+                  <option value="WV">
+                     WV
+                  </option>
+                  <option value="WI">
+                     WI
+                  </option>
+                  <option value="WY">
+                     WY
+                  </option>
+                   
+               </select>
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_6">
+                  ZIP: 
+               </label>
+                
+               <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_6"  name="DDS_zip"
+                type="text"  />
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_7">
+                  Phone: 
+               </label>
+                
+               <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_7"  name="DDS_phone"
+                type="text"  />
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_8">
+                  Email: 
+                  <em>
+                      * 
+                  </em>
+                   
+               </label>
+                
+               <input class="required"  data-val="true"  data-val-required="This is a required field."
+                id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_8"  name="DDS_email"
+                type="text"  /> 
+               <span class="field-validation-valid"  data-valmsg-for="DDS_email"  data-valmsg-replace="true">
+                   
+               </span>
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_9">
+                  Social Security Number 
+                  <em>
+                      * 
+                  </em>
+                   
+               </label>
+                
+               <input class="required"  data-val="true"  data-val-required="This is a required field."
+                id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_9"  name="DDS_social_security_number_2"
+                type="text"  /> 
+               <span class="field-validation-valid"  data-valmsg-for="DDS_social_security_number_2"
+                data-valmsg-replace="true">
+                   
+               </span>
+            </li>
+            <li>
+               <label>
+                  Residence: 
+               </label>
+               <ul>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_10_option_1"
+                      name="DDS_residence"  type="radio"  value="Own home outright"  /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_10_option_1">
+                         Own home outright 
+                     </label>
+                  </li>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_10_option_2"
+                      name="DDS_residence"  type="radio"  value="Buying Home"  /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_10_option_2">
+                         Buying Home 
+                     </label>
+                  </li>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_10_option_3"
+                      name="DDS_residence"  type="radio"  value="Renting/Leasing"  /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_10_option_3">
+                         Renting/Leasing 
+                     </label>
+                  </li>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_10_option_4"
+                      name="DDS_residence"  type="radio"  value="Living with relatives"  /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_10_option_4">
+                         Living with relatives 
+                     </label>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_11">
+                  Time at residence: 
+               </label>
+                
+               <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_11"  name="DDS_time_at_residence"
+                type="text"  />
+            </li>
+            <li>
+               <label>
+                  Education Level (if under 27): 
+               </label>
+               <ul>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_12_option_1"
+                      name="DDS_education_level_if_under_27"  type="checkbox"  value="4 Year College Grad."
+                      /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_12_option_1">
+                         4 Year College Grad. 
+                     </label>
+                  </li>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_12_option_2"
+                      name="DDS_education_level_if_under_27"  type="checkbox"  value="2 Year College Grad."
+                      /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_12_option_2">
+                         2 Year College Grad. 
+                     </label>
+                  </li>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_12_option_3"
+                      name="DDS_education_level_if_under_27"  type="checkbox"  value="Some College"
+                      /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_12_option_3">
+                         Some College 
+                     </label>
+                  </li>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_12_option_4"
+                      name="DDS_education_level_if_under_27"  type="checkbox"  value="Special Training"
+                      /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_12_option_4">
+                         Special Training 
+                     </label>
+                  </li>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_12_option_5"
+                      name="DDS_education_level_if_under_27"  type="checkbox"  value="High School Grad."
+                      /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_12_option_5">
+                         High School Grad. 
+                     </label>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_13">
+                  Current Employer: 
+               </label>
+                
+               <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_13"  name="DDS_current_employer"
+                type="text"  />
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_14">
+                  Employer&#39;s Address: 
+               </label>
+                
+               <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_14"  name="DDS_employers_address"
+                type="text"  />
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_15">
+                  Applicant&#39;s Occupation: 
+               </label>
+                
+               <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_15"  name="DDS_applicants_occupation"
+                type="text"  />
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_16">
+                  Time at Current Job: 
+               </label>
+                
+               <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_16"  name="DDS_time_at_current_job"
+                type="text"  />
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_17">
+                  Work Phone: 
+               </label>
+                
+               <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_17"  name="DDS_work_phone"
+                type="text"  />
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_18">
+                  Gross Salary: 
+               </label>
+                
+               <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_18"  name="DDS_gross_salary"
+                type="text"  />
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_19">
+                  Other income: 
+               </label>
+                
+               <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_19"  name="DDS_other_income"
+                type="text"  />
+            </li>
+            <li>
+               <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_20">
+                  Name of Bank: 
+               </label>
+                
+               <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_20"  name="DDS_name_of_bank"
+                type="text"  />
+            </li>
+            <li>
+               <label>
+                  Type of Account: 
+               </label>
+               <ul>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_21_option_1"
+                      name="DDS_type_of_account"  type="radio"  value="Checking and Savings"
+                      /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_21_option_1">
+                         Checking and Savings 
+                     </label>
+                  </li>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_21_option_2"
+                      name="DDS_type_of_account"  type="radio"  value="Checking only"  /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_21_option_2">
+                         Checking only 
+                     </label>
+                  </li>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_21_option_3"
+                      name="DDS_type_of_account"  type="radio"  value="Savings only"  /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_21_option_3">
+                         Savings only 
+                     </label>
+                  </li>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_21_option_4"
+                      name="DDS_type_of_account"  type="radio"  value="No account"  /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_21_option_4">
+                         No account 
+                     </label>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <label>
+                  Have you ever had a car or other merchandise repossessed? 
+               </label>
+               <ul>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_22_option_1"
+                      name="DDS_have_you_ever_had_a_car_or_other_merchandise_repossessed"  type="radio"
+                      value="Yes"  /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_22_option_1">
+                         Yes 
+                     </label>
+                  </li>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_22_option_2"
+                      name="DDS_have_you_ever_had_a_car_or_other_merchandise_repossessed"  type="radio"
+                      value="No"  /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_22_option_2">
+                         No 
+                     </label>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <label>
+                  Have you ever filed bankruptcy? 
+               </label>
+               <ul>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_23_option_1"
+                      name="DDS_have_you_ever_filed_bankruptcy"  type="radio"  value="Yes"  /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_23_option_1">
+                         Yes 
+                     </label>
+                  </li>
+                  <li>
+                     <input id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_23_option_2"
+                      name="DDS_have_you_ever_filed_bankruptcy"  type="radio"  value="No"  /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_23_option_2">
+                         No 
+                     </label>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <label>
+                  I have read the Privacy Statement and fully understand its terms. 
+                  <em>
+                      * 
+                  </em>
+                   
+               </label>
+               <ul>
+                  <li>
+                     <input class="required"  data-val="true"  data-val-required="This is a required field."
+                      id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_24_option_1"  name="DDS_i_have_read_the_privacy_statement_and_fully_understand_its_terms"
+                      type="radio"  value="Yes"  /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_24_option_1">
+                         Yes 
+                     </label>
+                  </li>
+                  <li>
+                     <input class="required"  data-val="true"  data-val-required="This is a required field."
+                      id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_24_option_2"  name="DDS_i_have_read_the_privacy_statement_and_fully_understand_its_terms"
+                      type="radio"  value="No"  /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_24_option_2">
+                         No 
+                     </label>
+                  </li>
+               </ul>
+               <span class="field-validation-valid"  data-valmsg-for="DDS_i_have_read_the_privacy_statement_and_fully_understand_its_terms"
+                data-valmsg-replace="true">
+                   
+               </span>
+            </li>
+            <li>
+               <label>
+                  By submitting this credit application I authorize a credit check which includes pulling statements from the Credit Bureau and other credit reporting agencies. 
+                  <em>
+                      * 
+                  </em>
+                   
+               </label>
+               <ul>
+                  <li>
+                     <input class="required"  data-val="true"  data-val-required="This is a required field."
+                      id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_25_option_1"  name="DDS_by_submitting_this_credit_application_i_authorize_a_credit_check_which_includes_pulling_statements_from_the_credit_bureau_and_other_credit_reporting_agencies"
+                      type="radio"  value="Yes"  /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_25_option_1">
+                         Yes 
+                     </label>
+                  </li>
+                  <li>
+                     <input class="required"  data-val="true"  data-val-required="This is a required field."
+                      id="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_25_option_2"  name="DDS_by_submitting_this_credit_application_i_authorize_a_credit_check_which_includes_pulling_statements_from_the_credit_bureau_and_other_credit_reporting_agencies"
+                      type="radio"  value="No"  /> 
+                     <label for="dbed1aa5-f595-4935-b39f-e842e91e1a80_formitem_25_option_2">
+                         No 
+                     </label>
+                  </li>
+               </ul>
+               <span class="field-validation-valid"  data-valmsg-for="DDS_by_submitting_this_credit_application_i_authorize_a_credit_check_which_includes_pulling_statements_from_the_credit_bureau_and_other_credit_reporting_agencies"
+                data-valmsg-replace="true">
+                   
+               </span>
+            </li>
+            <li>
+               <input name="DDS_send_application"  type="submit"  value="Send Application"
+                />
+            </li>
+         </ul>
+      </form>
+   </div>
+</div>
+</body>
