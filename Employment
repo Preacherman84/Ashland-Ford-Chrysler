@@ -1,0 +1,487 @@
+<head>
+<link href="https://s3.amazonaws.com/dom-cms/prod-web/Scripts/libs/chosen/chosen.css" rel="stylesheet" type="text/css" />
+<script src="https://s3.amazonaws.com/dom-cms/prod-web/Scripts/libs/chosen/chosen.jquery.js" type="text/javascript"></script>
+<script src="https://s3.amazonaws.com/dom-cms/prod-web/Scripts/libs/jquery/plugins/jquery.validate.min.js" type="text/javascript"></script>
+<script src="https://s3.amazonaws.com/dom-cms/prod-web/Scripts/libs/jquery/plugins/jquery.validate.unobtrusive.min.js" type="text/javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="https://s3.amazonaws.com/dom-cms/Site/cf10bf9c-ec46-4681-a5ff-55e798911e6f/css/Employment.css" />
+<!-- PAGE META TAGS WILL RENDER HERE -->
+</head>
+<body>
+
+<div style="width: 75%; height: 100%; border:none; text-align: center; margin: auto;">
+   <img src="https://s3.amazonaws.com/dom-cms/Site/cf10bf9c-ec46-4681-a5ff-55e798911e6f/images/Logo.jpg?dcce2451-52f5-4724-bd59-3ab36f3eb59b"
+    style="width: 75%; height: 100%; border: 5px outset #5a5a5a"  />
+</div>
+&nbsp;
+<div style="width: 100%; height: 100%; border: 2px solid black; text-align: center; background-color: rgba(2,98,210,0.5)">
+   <br />
+   <font color="#f0f0f0">
+      <span style="font-family: georgia; font-size: 200%; line-height: 30px; text-shadow: 2px 2px #0f0f0f">
+          
+         <em>
+             At Ashland Ford Chrysler, we are always looking for dynamic individuals to join our team. If you would like to apply, please fill out the form below. You can also call or email us for more information.
+            <br />
+            <br />
+            Ashland Ford Chrysler Contact Information:
+            <br />
+            <br />
+            Phone: (715) 682-8400
+            <br />
+            <br />
+            <a href="http://www.ashlandfordchrysler.com/connect-with-us"><span style="font-size: 125%;"><font color="#f0f0f0"><strong><u>Click Here To Message Us:</u></strong></font></span> </a> 
+         </em>
+          
+      </span>
+       
+   </font>
+   <br />
+   &nbsp;
+</div>
+
+<div class="hide-on-phones"  style="width: 100%; height: 100%; border: none;">
+   <br />
+   <br />
+   <font color="#f0f0f0">
+      <img src="http://www.robocamcctv.com/img/images/current-opening-banner-vantage.jpg"
+       style="width: 100%; height: 100%; border: 2px solid black"  /> 
+   </font>
+</div>
+&nbsp;
+<div class="hide-on-phones"  style="width: 100%; height: 100%; border: 2px solid black; text-align: center; background-color: rgba(1,98,210,0.5)">
+   <br />
+   <br />
+   <font color="#f0f0f0">
+      <span style="font-family:georgia; font-size: 250%; line-height: 40px; text-shadow: 2px 2px #0f0f0f">
+          
+         <strong>
+             
+            <em>
+                Openings for Experienced Automotive Technicians 
+            </em>
+             
+         </strong>
+          
+      </span>
+      <br />
+      <br />
+      <span style="font-family:georgia; font-size: 175%; line-height: 30px">
+          
+         <em>
+             Ashland Ford Chrysler is seeking experienced automotive technicians. To apply, please fill out the form below and submit. For more information please contact us at (715) 682-8400 
+         </em>
+          
+      </span>
+      <br />
+      <br />
+      <span style="font-family:georgia; font-size: 250%; line-height: 40px; text-shadow: 2px 2px #0f0f0f">
+          
+         <strong>
+             
+            <em>
+                Openings for Parts Department 
+            </em>
+             
+         </strong>
+          
+      </span>
+      <br />
+      <br />
+      <span style="font-family:georgia; font-size: 175%; line-height: 30px">
+          
+         <em>
+             Ashland Ford Chrysler is seeking individuals to work in our parts department. To apply, please fill out the form below and submit. For more information please contact us at (715) 682-8400 
+         </em>
+          
+      </span>
+       
+   </font>
+   <br />
+   &nbsp;
+</div>
+<br />
+&nbsp;
+&nbsp;
+
+<div class="hide-on-phones"  style="width: 100%; height: 100%; border: none;">
+   <img src="https://www.waukeshabank.com/assets/content/SCXaq6cX/2015/06/04/employment%20application_SubBanner.jpg"
+    style="width: 100%; height: 100%; border: 2px solid black"  />
+</div>
+&nbsp;
+<div class="formContainer 1bc23625-b6b5-4ff3-bf42-62b2037debb3"  style="background-color: #ffffff;">
+   <form action="https://secure.drivewebsite.com"  class="ddsFormEventTracking"
+    method="POST">
+      <input name="__pageInfo"  type="hidden"  value=""  /> 
+      <input name="__canvasItemId"  type="hidden"  value="1bc23625-b6b5-4ff3-bf42-62b2037debb3"
+       /> 
+      <input name="__siteId"  type="hidden"  value="cf10bf9c-ec46-4681-a5ff-55e798911e6f"
+       /> 
+      <input name="__siteHeader"  type="hidden"  value="www.ashlandfordchrysler.com"
+       /> 
+      <input name="__landingPage"  type="hidden"  value="/thank-you/employment"
+       /> 
+      <input name="__siteName"  type="hidden"  value="Ashland Ford Chrysler 2"
+       /> 
+      <input name="__pageName"  type="hidden"  value="Employment"  /> 
+      <input name="__pageId"  type="hidden"  value="d93aaffb-0d4a-45e1-b785-f32d5aba2c5a"
+       /> 
+      <input name="__couponId"  type="hidden"  value="00000000-0000-0000-0000-000000000000"
+       /> 
+      <input name="__userIp"  type="hidden"  />
+      <div class="temporal">
+         <ul>
+            <li>
+               <label>
+                  State 
+               </label>
+                
+               <input autocomplete="off"  name="State"  tabindex="-1"  type="text"  />
+            </li>
+         </ul>
+      </div>
+      <div class="hpt-field">
+         <ul>
+            <li>
+               <label>
+                  EmailAddress 
+               </label>
+                
+               <input autocomplete="off"  name="EmailAddress"  tabindex="-1"  type="text"
+                />
+            </li>
+         </ul>
+      </div>
+      <div class="hpt-field2">
+         <ul>
+            <li>
+               <label>
+                  City 
+               </label>
+                
+               <input autocomplete="off"  name="City"  tabindex="-1"  type="text"  />
+            </li>
+         </ul>
+      </div>
+      <ul>
+         <li>
+            <label for="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_1">
+               First Name: 
+               <em>
+                   * 
+               </em>
+                
+            </label>
+             
+            <input class="required"  data-val="true"  data-val-required="This is a required field."
+             id="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_1"  name="DDS_first_name"
+             type="text"  /> 
+            <!-- if isRequired or any other validation exists for this, add span class --> 
+            <span class="field-validation-valid"  data-valmsg-for="DDS_first_name"
+             data-valmsg-replace="true">
+                
+            </span>
+         </li>
+         <li>
+            <label for="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_2">
+               Last Name: 
+               <em>
+                   * 
+               </em>
+                
+            </label>
+             
+            <input class="required"  data-val="true"  data-val-required="This is a required field."
+             id="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_2"  name="DDS_last_name"
+             type="text"  /> 
+            <!-- if isRequired or any other validation exists for this, add span class --> 
+            <span class="field-validation-valid"  data-valmsg-for="DDS_last_name"
+             data-valmsg-replace="true">
+                
+            </span>
+         </li>
+         <li>
+            <label for="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_3">
+               Address: 
+            </label>
+             
+            <input id="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_3"  name="DDS_address"
+             type="text"  /> 
+            <!-- if isRequired or any other validation exists for this, add span class -->
+         </li>
+         <li>
+            <label for="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_4">
+               City: 
+            </label>
+             
+            <input id="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_4"  name="DDS_city"
+             type="text"  /> 
+            <!-- if isRequired or any other validation exists for this, add span class -->
+         </li>
+         <li>
+            <label for="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_5">
+               State: 
+            </label>
+             
+            <select id="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_5"  name="DDS_state_2">
+               <option value="AL">
+                  AL
+               </option>
+               <option value="AK">
+                  AK
+               </option>
+               <option value="AZ">
+                  AZ
+               </option>
+               <option value="AR">
+                  AR
+               </option>
+               <option value="CA">
+                  CA
+               </option>
+               <option value="CO">
+                  CO
+               </option>
+               <option value="CT">
+                  CT
+               </option>
+               <option value="DC">
+                  DC
+               </option>
+               <option value="DE">
+                  DE
+               </option>
+               <option value="FL">
+                  FL
+               </option>
+               <option value="GA">
+                  GA
+               </option>
+               <option value="HI">
+                  HI
+               </option>
+               <option value="ID">
+                  ID
+               </option>
+               <option value="IL">
+                  IL
+               </option>
+               <option value="IN">
+                  IN
+               </option>
+               <option value="IA">
+                  IA
+               </option>
+               <option value="KS">
+                  KS
+               </option>
+               <option value="KY">
+                  KY
+               </option>
+               <option value="LA">
+                  LA
+               </option>
+               <option value="ME">
+                  ME
+               </option>
+               <option value="MD">
+                  MD
+               </option>
+               <option value="MA">
+                  MA
+               </option>
+               <option value="MI">
+                  MI
+               </option>
+               <option value="MN">
+                  MN
+               </option>
+               <option value="MS">
+                  MS
+               </option>
+               <option value="MO">
+                  MO
+               </option>
+               <option value="MT">
+                  MT
+               </option>
+               <option value="NE">
+                  NE
+               </option>
+               <option value="NV">
+                  NV
+               </option>
+               <option value="NH">
+                  NH
+               </option>
+               <option value="NJ">
+                  NJ
+               </option>
+               <option value="NM">
+                  NM
+               </option>
+               <option value="NY">
+                  NY
+               </option>
+               <option value="NC">
+                  NC
+               </option>
+               <option value="ND">
+                  ND
+               </option>
+               <option value="OH">
+                  OH
+               </option>
+               <option value="OK">
+                  OK
+               </option>
+               <option value="OR">
+                  OR
+               </option>
+               <option value="PA">
+                  PA
+               </option>
+               <option value="RI">
+                  RI
+               </option>
+               <option value="SC">
+                  SC
+               </option>
+               <option value="SD">
+                  SD
+               </option>
+               <option value="TN">
+                  TN
+               </option>
+               <option value="TX">
+                  TX
+               </option>
+               <option value="UT">
+                  UT
+               </option>
+               <option value="VT">
+                  VT
+               </option>
+               <option value="VA">
+                  VA
+               </option>
+               <option value="	WA">
+                  WA
+               </option>
+               <option value="WV">
+                  WV
+               </option>
+               <option value="WI">
+                  WI
+               </option>
+               <option value="WY">
+                  WY
+               </option>
+                
+            </select>
+         </li>
+         <li>
+            <label for="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_6">
+               ZIP: 
+            </label>
+             
+            <input id="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_6"  name="DDS_zip"
+             type="text"  /> 
+            <!-- if isRequired or any other validation exists for this, add span class -->
+         </li>
+         <li>
+            <label for="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_7">
+               Phone: 
+            </label>
+             
+            <input id="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_7"  name="DDS_phone"
+             type="text"  /> 
+            <!-- if isRequired or any other validation exists for this, add span class -->
+         </li>
+         <li>
+            <label for="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_8">
+               Email: 
+               <em>
+                   * 
+               </em>
+                
+            </label>
+             
+            <input class="required"  data-val="true"  data-val-required="This is a required field."
+             id="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_8"  name="DDS_email"
+             type="text"  /> 
+            <!-- if isRequired or any other validation exists for this, add span class --> 
+            <span class="field-validation-valid"  data-valmsg-for="DDS_email"  data-valmsg-replace="true">
+                
+            </span>
+         </li>
+         <li>
+            <label for="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_9">
+               Current Employer: 
+            </label>
+             
+            <input id="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_9"  name="DDS_current_employer"
+             type="text"  /> 
+            <!-- if isRequired or any other validation exists for this, add span class -->
+         </li>
+         <li>
+            <label for="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_10">
+               Current Position: 
+            </label>
+             
+            <input id="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_10"  name="DDS_current_position"
+             type="text"  /> 
+            <!-- if isRequired or any other validation exists for this, add span class -->
+         </li>
+         <li>
+            <label for="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_11">
+               Manager: 
+            </label>
+             
+            <input id="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_11"  name="DDS_manager_2"
+             type="text"  /> 
+            <!-- if isRequired or any other validation exists for this, add span class -->
+         </li>
+         <li>
+            <label for="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_12">
+               Employer Phone: 
+            </label>
+             
+            <input id="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_12"  name="DDS_employer_phone"
+             type="text"  /> 
+            <!-- if isRequired or any other validation exists for this, add span class -->
+         </li>
+         <li>
+            <label for="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_13">
+               Length of time in current position: 
+            </label>
+             
+            <input id="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_13"  name="DDS_length_of_time_in_current_position"
+             type="text"  /> 
+            <!-- if isRequired or any other validation exists for this, add span class -->
+         </li>
+         <li>
+            <label for="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_14">
+               Additional Comments/Info: 
+            </label>
+            <textarea id="1bc23625-b6b5-4ff3-bf42-62b2037debb3_formitem_14"  name="DDS_additional_commentsinfo"
+             type="text">
+                                                                                                                                                                                                                                 
+                                                                                                                                                                                            
+                                                                                                                                               
+                                                                                                  
+                           
+            </textarea>
+             
+            <!-- if isRequired or any other validation exists for this, add span class -->
+         </li>
+         <li>
+            <input name="DDS_send_application"  type="submit"  value="Send Application"
+             />
+         </li>
+      </ul>
+   </form>
+   <script>
+                                                        $(".1bc23625-b6b5-4ff3-bf42-62b2037debb3 select[multiple]").chosen();
+   </script>
+</div>
+&nbsp;
