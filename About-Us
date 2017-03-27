@@ -1,0 +1,158 @@
+<head>
+<link rel="stylesheet" type="text/css" href="https://s3.amazonaws.com/dom-cms/Site/cf10bf9c-ec46-4681-a5ff-55e798911e6f/css/About-Us.css" />
+</head>
+<body>
+
+<div style="width: 100%; height: 100%; border: 5px outset #a5a5a5; text-align: left; background-color:rgba(2,98,210,0.5);">
+   <div style="width: 100%; height: 100%; border: none; text-align: center; background-color: #0f0f0f;">
+      <br />
+      <font color="#f0f0f0">
+         <span style="font-family: georgia; font-size: 300%; line-height: 40px;">
+             
+            <strong>
+                
+               <em>
+                   
+                  <u>
+                      Ashland Ford Chrysler:
+                     <br />
+                     Who We Are: 
+                  </u>
+                   
+               </em>
+                
+            </strong>
+             
+         </span>
+          
+      </font>
+      <br />
+      &nbsp;
+   </div>
+   <br />
+   <font color="#f0f0f0">
+      <span style="font-family: georgia; font-size: 250%; line-height: 30px; text-shadow: 2px 2px #5a5a5a">
+          
+         <strong>
+             
+            <em>
+                
+               <u>
+                   About Us: 
+               </u>
+                
+            </em>
+             
+         </strong>
+          
+      </span>
+      <br />
+      <br />
+      <span style="font-family: georgia; font-size: 200%; line-height: 20px;">
+          
+         <em>
+             At Ashland Ford Chrysler, we are proud of our long-standing reputation as a leading dealer in the Ashland and the Washburn and Bayfield areas. We have excellent ratings for vehicle quality, service, and satisfaction. Our customers rely on our professional staff for dependability and individual attention during every visit.
+            <br />
+            <br />
+            Our repeat customers come from both the local Ashland area and from the surrounding communities of Mellen, Iron River, Park Falls, and Hurley in Wisconsin. We have not only competitively priced Ford, Chrysler, Dodge, Jeep and RAM vehicles, but also our automotive parts and service department. Ashland Ford Chrysler is more than a car sales business; our personnel live in the local area and take great pride in being able to help you ind the car of your choice and keep it in top performance condition. 
+         </em>
+          
+      </span>
+      <br />
+      <br />
+      <span style="font-family: georgia; font-size: 250%; line-height: 30px; text-shadow: 2px 2px #5a5a5a">
+          
+         <strong>
+             
+            <em>
+                
+               <u>
+                   New Ford, New Chrysler, &amp; Used Cars: 
+               </u>
+                
+            </em>
+             
+         </strong>
+          
+      </span>
+      <br />
+      <br />
+      <span style="font-family: georgia; font-size: 200%; line-height: 20px;">
+          
+         <em>
+             Ashland Ford Chrysler has a large selection of the newest models of sedans, SUVs, trucks, mini-vans and cross-over vehicles with a full selection of safety and digital features. Our used car lot is a car buyer&#39;s dream with a wide range of quality, certified vehicles. Whether for business or personal use, our sales staff wants you to have the best vehicle possible for both your driving needs and your budget. 
+         </em>
+          
+      </span>
+      <br />
+      <br />
+      <span style="font-family:georgia; font-size: 250%; line-height: 30px; text-shadow: 2px 2px #5a5a5a">
+          
+         <strong>
+             
+            <em>
+                
+               <u>
+                   Parts &amp; Service: 
+               </u>
+                
+            </em>
+             
+         </strong>
+          
+      </span>
+      <br />
+      <br />
+      <span style="font-family: georgia; font-size: 200%; line-height: 20px;">
+          
+         <em>
+             Our maintenance and repair specialists are ASE-certified technicians dedicated to top-quality vehicle service. Our supplies department is stocked with genuine manufacturer parts for Dodge, Jeep, Ram, Ford and Chrysler vehicles, and our technicians are trained to service all the models we sell. We also provide a full body shop, should your vehicle ever need major repairs. 
+         </em>
+          
+      </span>
+      <br />
+      <br />
+      <span style="font-family: georgia; font-size: 250%; line-height: 30px; text-shadow: 2px 2px #5a5a5a">
+          
+         <strong>
+             
+            <em>
+                
+               <u>
+                   Visit Us Today! 
+               </u>
+                
+            </em>
+             
+         </strong>
+          
+      </span>
+      <br />
+      <br />
+      <span style="font-family:georgia; font-size: 200%; line-height: 20px;">
+          
+         <em>
+             We invite you to come in to Ashland Ford Chrysler to see what great offers are available on both new and used cars. You can test-drive the vehicle of your choice to ensure it meets your performance standards. The operation hours of our sales and service departments are listed on our location page along with driving directions. Contact us today to get started repairing your vehicle or picking a new one. 
+         </em>
+          
+      </span>
+       
+   </font>
+   <br />
+   <br />
+   <br />
+   &nbsp;
+</div>
+
+<div class="hide-on-phones center text-center">
+   <img src="https://s3.amazonaws.com/dom-cms/Site/cf10bf9c-ec46-4681-a5ff-55e798911e6f/images/IMG_20170214_170318.jpg?57648245-917b-4fd5-9482-3304fbd6c795"
+    style="border: 5px outset #a5a5a5;"  />
+</div>
+&nbsp;
+<div class="abtus-btns">
+   <a class="abtus-btns button"  href="/new-inventory">Shop New Inventory</a> 
+   <a class="abtus-btns button"  href="/used-inventory">Shop Used Inventory</a> 
+   <a class="abtus-btns button"  href="/parts-service/schedule-service">Fix Your Car</a>
+</div>
+&nbsp;
+</body>
